@@ -12,5 +12,5 @@ Course code: ITI1521
 Lab section: A-02
 
 ## Exécuter le jeu
-```javac FloodIt.java
-```java FloodIt
+* javac FloodIt.java
+* java FloodIt
