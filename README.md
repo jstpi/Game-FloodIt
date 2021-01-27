@@ -1,3 +1,4 @@
+# Jeu Flood It
 Student name: Jeremie St-Pierre et Sarah Roy-Molgat
 Student number: 8628942 et 7656949
 Course code: ITI1521
