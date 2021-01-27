@@ -13,4 +13,4 @@ Lab section: A-02
 
 ## Exécuter le jeu
 ```javac FloodIt.java
-java FloodIt``` 
+```java FloodIt
