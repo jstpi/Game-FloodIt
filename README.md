@@ -1,9 +1,9 @@
 # Jeu Flood It
-Project pour le cours ITI1521 de l'Université d'Ottawa. Ce project est une implémentation en Java du jeu FloodIt à l’aide du modèle MVC. Ce jeu est affiché avec l'interface Java Swing.
+Projet pour le cours ITI1521 de l'Université d'Ottawa. Ce projet est une implémentation en Java du jeu FloodIt à l’aide du modèle MVC. Ce jeu est affiché avec l'interface Java Swing.
 
 ## Instruction du jeu
 ### Context
-Le but du jeu est de remplir toutes les cases de la grille de la même couleur en changeant la couleur du débordement. Tout cela a pour défi de ce faire compléter avec le moins de coup possible.
+Le but du jeu est de remplir toutes les cases de la grille de la même couleur en changeant la couleur du débordement. Tout cela a pour défi de se faire compléter avec le moins de coup possible.
 
 ### Pièce du jeu
 * **Bille**: élément d'une case qui peut être de 6 couleurs
@@ -15,7 +15,7 @@ Le but du jeu est de remplir toutes les cases de la grille de la même couleur e
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-4.png?raw=true)
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-5.png?raw=true)
 
-* **Grille**: conteneur de 12 x 12 bille à remplir
+* **Grille**: conteneur de 12 x 12 billes à remplir
 
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/grid.png?raw=true)
 
@@ -23,12 +23,12 @@ Le but du jeu est de remplir toutes les cases de la grille de la même couleur e
 
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/palet.png?raw=true)
 
-* **Débordement**: ensemble de bille controllable par le changement de couleur du joueur
+* **Débordement**: ensemble de billes contrôllables par le changement de couleur du joueur
 
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/flood.png?raw=true)
 
 ### Flot de jeu
-Le jeu débute avec une grille généré de façon aléatoire, puis le joueur commencer avec l'ensemble de débordement étant seulement la bille au coins en haut et à gauche. Voici l'exemble d'un coup de débordement de couleurs:
+Le jeu débute avec une grille générée de façon aléatoire, puis le joueur commence avec l'ensemble de débordement étant seulement la bille au coin en haut et à gauche. Voici l'exemple d'un coup de débordement de couleurs:
 
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/flood1.png?raw=true)
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/flood2.png?raw=true)
@@ -41,7 +41,10 @@ Le jeu débute avec une grille généré de façon aléatoire, puis le joueur co
 
 ![](https://github.com/jstpi047/Game-FloodIt/blob/main/images/challenge.png?raw=true)
 
-## Exécuter le jeu
+## Executer le jeu
+1. Installer un [Java SE Development Kit](https://www.oracle.com/java/technologies/java-se-glance.html)
+2. Télécharger ce code source
+3. Exécuter ces commandes dans le fichier du projet:
 ```
 > javac FloodIt.java
 > java FloodIt
