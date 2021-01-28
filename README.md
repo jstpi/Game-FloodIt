@@ -7,8 +7,18 @@ Le but du jeu est de remplir toutes les cases de la grille de la même couleur e
 
 ### Pièce du jeu
 * **Bille**: élément d'une case qui peut être de 6 couleurs
-[](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-0.png?raw=true)
+
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-0.png?raw=true)
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-1.png?raw=true)
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-2.png?raw=true)
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-3.png?raw=true)
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-4.png?raw=true)
+![](https://github.com/jstpi047/Game-FloodIt/blob/main/data/M/ball-5.png?raw=true)
+
 * **Grille**: conteneur de 12 x 12 bille à remplir
+
+
+
 * **Palette**: outils pour choisir le changement de couleur du débordement
 * **Débordement**: ensemble de bille controllable par le changement de couleur du joueur
 
