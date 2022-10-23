@@ -1,3 +1,4 @@
+![splash2 (2)](https://user-images.githubusercontent.com/111090400/197368045-f62cd389-3073-43ea-a9cd-4795cbada260.png)
 # Jeu Flood It
 Projet pour le cours ITI1521 de l'Université d'Ottawa. Ce projet est une implémentation en Java du jeu: FloodIt, à l’aide du modèle MVC. Ce jeu est affiché avec l'interface Java Swing.
 
